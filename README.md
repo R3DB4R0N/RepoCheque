@@ -193,5 +193,5 @@ the mod, this is the build it was written against.
 
 ## Credits
 
-Artwork by Sinan. Uses the game's own Teko font asset, so the printed amount matches the rest
+Artwork by R3DB4R0N. Uses the game's own Teko font asset, so the printed amount matches the rest
 of the UI exactly.
