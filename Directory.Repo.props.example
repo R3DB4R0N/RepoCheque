@@ -1,0 +1,18 @@
+<Project>
+
+  <!--
+    Copy this file to "Directory.Repo.props" and change GameDirectory to point at YOUR
+    R.E.P.O. install. The real file is gitignored because the path is machine-specific.
+
+    Point it at the game's own Steam folder, NOT at r2modman / Thunderstore Mod Manager.
+    Keep the trailing backslash.
+
+    Typical Steam location:
+      C:\Program Files (x86)\Steam\steamapps\common\REPO\
+  -->
+  <PropertyGroup>
+    <GameDirectory>C:\Path\To\Steam\steamapps\common\REPO\</GameDirectory>
+    <BepInExDirectory>$(GameDirectory)BepInEx</BepInExDirectory>
+  </PropertyGroup>
+
+</Project>

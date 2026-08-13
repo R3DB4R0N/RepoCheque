@@ -1,0 +1,20 @@
+# Build output
+bin/
+obj/
+dist/
+
+# Machine-specific: contains the absolute path to YOUR game install.
+# Copy Directory.Repo.props.example to Directory.Repo.props and edit it.
+Directory.Repo.props
+
+# Work-in-progress / not needed to build
+Başlıksız-3.png
+Teko.zip
+
+# Editor / OS noise
+.vs/
+.idea/
+*.user
+*.suo
+Thumbs.db
+desktop.ini
