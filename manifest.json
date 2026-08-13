@@ -1,9 +1,9 @@
 {
   "name": "RepoCheque",
   "version_number": "1.0.0",
-  "website_url": "",
+  "website_url": "https://github.com/R3DB4R0N/RepoCheque",
   "description": "Replaces the surplus money bag with a paper cheque that prints the amount, ignores the Rugrat, spawns in your cart and never breaks.",
   "dependencies": [
-    "BepInEx-BepInExPack-5.4.2100"
+    "BepInEx-BepInExPack-5.4.2305"
   ]
 }
